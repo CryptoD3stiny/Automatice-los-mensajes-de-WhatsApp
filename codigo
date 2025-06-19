@@ -1,0 +1,10 @@
+import pywhatkit
+
+
+pywhatkit.sendwhatmsg("+57xxxxxxxxx", 
+                      "Geeks For Geeks!", 
+                      18, 30)
+
+
+
+¡¡si solo esto!!
